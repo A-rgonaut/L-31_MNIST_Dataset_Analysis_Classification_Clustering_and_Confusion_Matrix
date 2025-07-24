@@ -27,8 +27,8 @@ To run this project, you will need Python and Jupyter Notebook installed. The fo
 1. **Clone the Repository**
     Open your terminal or command prompt and clone the repository to your local machine.
     ```bash
-    git clone https://github.com/A-rgonaut/L-31-2023-Progetto-Data-Science.git
-    cd L-31-2023-Progetto-Data-Science
+    [git clone https://github.com/A-rgonaut/L-31-2023-Progetto-Data-Science.git](https://github.com/A-rgonaut/L-31_MNIST_Dataset_Analysis_Classification_Clustering_and_Confusion_Matrix.git)
+    cd L-31_MNIST_Dataset_Analysis_Classification_Clustering_and_Confusion_Matrix
     ```
 
 2.  **Create and Activate a Virtual Environment (Recommended)**
